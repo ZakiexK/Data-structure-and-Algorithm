@@ -1,3 +1,4 @@
 # Data-structure-and-Algorithm
-## Searching ## Sorting
-
+## Searching                Sorting
+[x] linear
+[x] binary
